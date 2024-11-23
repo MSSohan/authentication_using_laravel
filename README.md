@@ -2,19 +2,19 @@
 
 ## Introduction
 
-Welcome to the Laravel 11 Custom Authentication System developed by Shabab Salehin! This application is designed to provide a robust and secure authentication solution built with modern web development technologies. It caters to the common needs of user authentication, including registration, login, profile management, and secure session handling. 
+Welcome to the Laravel Authentication System developed by Md Saifuzzaman Sohan! This application is designed to provide a robust and secure authentication solution built with modern web development technologies. It caters to the common needs of user authentication, including registration, login, profile management, and secure session handling. 
 
 ### Project Overview
 
 In this project, users can register using their name, unique email address, unique phone number, and password. Post-registration, users are automatically logged in and redirected to a personalized dashboard. The system includes a profile page where users can update their name and email. For security, the application uses CSRF tokens to prevent cross-site request forgery attacks. Users can log out securely, ensuring their sessions are terminated properly. Additionally, users can log in using their phone number and password, providing a flexible and user-friendly authentication process.
 
-![Register](https://github.com/ShababSalehin/Laravel-11-Custom-Authentication/assets/82288653/b79fbb04-8f8f-47ea-8657-2a3193c56ca5)
+![Register](https://github.com/MSSohan/authentication_using_laravel/image/register.PNG)
 
-![Login](https://github.com/ShababSalehin/Laravel-11-Custom-Authentication/assets/82288653/c3c68531-1341-487f-8924-269b55564816)
+![Login](https://github.com/MSSohan/authentication_using_laravel/image/)
 
-![Dashboard](https://github.com/ShababSalehin/Laravel-11-Custom-Authentication/assets/82288653/143a4c3f-1290-4bd3-9c7a-1bc81f29c7b3)
+![Dashboard](https://github.com/MSSohan/authentication_using_laravel/image/)
 
-![Profile](https://github.com/ShababSalehin/Laravel-11-Custom-Authentication/assets/82288653/d5159f63-b494-4c68-8c9e-3ed4e5d76c1c)
+![Profile](https://github.com/MSSohan/authentication_using_laravel/image/)
 
 ### Motivation
 
@@ -122,4 +122,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-[MSSohan](github.com/MSSohan)[sohan.cu.eee.17@gmail.com](mailto:sohan.cu.eee.17@gmail.com)
+[MSSohan](https://github.com/MSSohan) [sohan.cu.eee.17@gmail.com](mailto:sohan.cu.eee.17@gmail.com)
