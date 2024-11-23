@@ -8,13 +8,13 @@ Welcome to the Laravel Authentication System developed by Md Saifuzzaman Sohan! 
 
 In this project, users can register using their name, unique email address, unique phone number, and password. Post-registration, users are automatically logged in and redirected to a personalized dashboard. The system includes a profile page where users can update their name and email. For security, the application uses CSRF tokens to prevent cross-site request forgery attacks. Users can log out securely, ensuring their sessions are terminated properly. Additionally, users can log in using their phone number and password, providing a flexible and user-friendly authentication process.
 
-![Register](https://github.com/MSSohan/authentication_using_laravel/image/register.PNG)
+![Register](image/register.PNG)
 
-![Login](https://github.com/MSSohan/authentication_using_laravel/image/)
+![Login](image/login.PNG)
 
-![Dashboard](https://github.com/MSSohan/authentication_using_laravel/image/)
+![Dashboard](image/dashboard.PNG)
 
-![Profile](https://github.com/MSSohan/authentication_using_laravel/image/)
+![Profile](image/profile.PNG)
 
 ### Motivation
 
